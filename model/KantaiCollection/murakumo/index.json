@@ -2,7 +2,7 @@
 	"version":"Alpha 1.0.1",
 	"model":"model.moc",
 	"textures":[
-		"textures.1024/00.png"
+		"textures.1024/00.webp"
 	],
     "physics":"physics.json",
     "layout":{
