@@ -1,5 +1,6 @@
 {
     "models": [
+        "live2d-lwet",
         "Potion-Maker/Pio",
         "Potion-Maker/Tia",
         "bilibili-live/22",
@@ -33,6 +34,7 @@
         "KantaiCollection/murakumo"
     ],
     "messages": [
+        "来自 紫罗兰永恒花园 的 薇尔莉特·伊芙加登 酱 ~",
         "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Potion Maker 的 Tia 酱 ~",
         "来自 Bilibili Live 的 22 哦 ~",
